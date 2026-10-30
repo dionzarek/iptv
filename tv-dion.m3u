@@ -1,0 +1,139 @@
+#EXTM3U
+#PLAYLIST:TV-Dion
+# Built with the CODECS.COM Playlist Builder
+
+#EXTINF:-1 tvg-id="nowplayer.now.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",Cartoon Network Asia
+https:\\cdn4.skygo.mn\live\disk1\Cartoon_Network\HLSv3-FTA\Cartoon_Network.m3u8
+
+#EXTINF:-1 tvg-id="singtel.com" tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon Pluto TV
+https:\\jmp2.uk\plu-5ca673e0d0bd6c2689c94ce3.m3u8
+
+#EXTINF:-1 tvg-id="cubmu.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/960px-CNBC_Indonesia_2025.svg.png",CNBC Indonesia
+https:\\video.detik.com\livecnbc\smil:cnbctv\chunklist_w1279679883_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="mytelly.co.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png",CNBC UK
+https:\\amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv\playlist.m3u8
+
+#EXTINF:-1 tvg-id="i.mjh.nz" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV
+http:\\23.237.104.106:8080\USA_BLOOMBERG\index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TOB9vmW.png",AFV
+https:\\linear-12.frequency.stream\dist\plex\12\hls\master\playlist.m3u8
+
+#EXTINF:-1 tvg-id="mytelly.co.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",Comedy Central
+https:\\jmp2.uk\plu-5ca671f215a62078d2ec0abf.m3u8
+
+#EXTINF:-1 tvg-id="content.astro.com.my" tvg-logo="https://i.imgur.com/pux6WN8.png",Asian Food Network Vietnam
+https:\\freem3u.xyz\api\live\play.m3u8?vid=215
+
+#EXTINF:-1 tvg-id="tv.cctv.com" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV-8
+http:\\74.91.26.218:82\live\cctv8hd.m3u8
+
+#EXTINF:-1 tvg-id="programtv.onet.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/960px-New_NatGeo_People_logo.svg.png",Nat Geo People HD
+http:\\92.114.85.87:8016\play\a003\index.m3u8
+
+#EXTINF:-1 tvg-id="starhubtvplus.com" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",NHK World Japan HD
+https:\\freem3u.xyz\api\live\play.m3u8?vid=106
+
+#EXTINF:-1 tvg-id="maxstream.tv" tvg-logo="https://i.imgur.com/jAAPgpV.png",The Indonesia Channel
+https:\\restreamer.indonusa.id:8443\d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
+
+#EXTINF:-1 tvg-id="tvpassport.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",Animal Planet (United States)
+http:\\23.239.31.26:8989\animalplanet\index.m3u8
+
+#EXTINF:-1 tvg-id="pluto.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg",BBC Earth US
+https:\\amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv\BBCStudios-BBCEarthA-hls\playlist.m3u8
+
+#EXTINF:-1 tvg-id="watch.whaletvplus.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png",CNA Originals
+https:\\amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv\playlist.m3u8
+
+#EXTINF:-1 tvg-id="i.mjh.nz" tvg-logo="https://i.imgur.com/x57klfS.png",Documentary+ International (1080p)
+https:\\1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com\v1\master\ba62fe743df0fe93366eba3a257d792884136c7f\LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS\mt\documentaryplus\887\hls\master\playlist.m3u8
+
+#EXTINF:-1 tvg-id="maxstream.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",History Asia
+https:\\freem3u.xyz\api\live\play.m3u8?vid=9856
+
+#EXTINF:-1 tvg-id="tvpassport.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",National Geographic HD
+http:\\198.58.104.90:8989\natgeo\index.m3u8
+
+#EXTINF:-1 tvg-id="tvpassport.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",National Geographic Wild HD
+http:\\198.58.104.90:8989\natgeowild\index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png",ABC Entertains
+https:\\c.mjh.nz\abc-me.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jSQURxS.png",CCTV-17 HD
+http:\\74.91.26.218:82\live\cctv17hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8c8isLj.png",PBS KQED
+https:\\kqeddt2.lls.pbs.org\kqeddt2-hls.m3u8
+
+#EXTINF:-1 tvg-id="tvpassport.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png",PBS Kids
+https:\\livestream.pbskids.org\out\v1\14507d931bbe48a69287e4850e53443c\est.m3u8
+
+#EXTINF:-1 tvg-id="tvguide.com" tvg-logo="https://imgx.fubo.tv/station_logos/bbc-america_c.png",BBC America
+http:\\23.239.31.26:8989\bbcamerica\index.m3u8
+
+#EXTINF:-1 tvg-id="tvpassport.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",MTV
+http:\\23.237.104.106:8080\USA_MTV\index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/NBC_LX_Home_2023.svg",NBC LX Home
+https:\\plex-xumoent-ch485-e7l5l.fast.nbcuni.com\live\master_5.m3u8
+
+#EXTINF:-1 tvg-id="cubmu.com" tvg-logo="https://i.imgur.com/4ESi2La.png",NHK World Premium
+https:\\media-tyo.hls.nhkworld.jp\hls\wp\live\master.m3u8
+
+#EXTINF:-1 tvg-id="tvguide.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",Boomerang
+http:\\23.237.104.106:8080\USA_BOOMERANG\index.m3u8
+
+#EXTINF:-1 tvg-id="tvpassport.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png",Disney XD
+http:\\89.187.179.148:826\1368\gXwiagaXda\1672
+
+#EXTINF:-1 tvg-id="tvpassport.com" tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon
+http:\\198.58.104.90:8989\nickelodeon\index.m3u8
+
+#EXTINF:-1 tvg-id="tvpassport.com" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Nicktoons_Logo_2023.svg/960px-Nicktoons_Logo_2023.svg.png",Nicktoons
+http:\\41.205.93.154\NICKTOONS\index.m3u8
+
+#EXTINF:-1 tvg-id="tvpassport.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",AMC
+http:\\23.239.31.26:8989\amc\index.m3u8
+
+#EXTINF:-1 tvg-id="starhubtvplus.com" tvg-logo="https://i.imgur.com/c8crJfA.png",Cinemax Asia HD
+http:\\125.227.210.55:1001\VideoInput\play.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Cinemax_Hits_Logo.png/960px-Cinemax_Hits_Logo.png",Cinemax Hits
+http:\\23.237.104.106:8080\USA_MOREMAX\index.m3u8
+
+#EXTINF:-1 tvg-id="nowplayer.now.com" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png",HBO Asia
+http:\\125.227.210.55:1003\VideoInput\play.ts
+
+#EXTINF:-1 tvg-id="tvguide.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",Paramount Network
+http:\\23.237.104.106:8080\USA_PARAMOUNT_NETWORK\index.m3u8
+
+#EXTINF:-1 tvg-id="tvtv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",Sony Movies
+http:\\45.162.64.114\SONY_MOVIES\index.m3u8
+
+#EXTINF:-1 tvg-id="tv.blue.ch" tvg-logo="https://i.imgur.com/bZWoDTg.png",Sony Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvpassport.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",ESPN
+http:\\85.237.89.160:9590\usa-s\ESPN-HD\index.m3u8
+
+#EXTINF:-1 tvg-id="i.mjh.nz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",FIFA+
+https:\\d2w9q46ikgrcwx.cloudfront.net\v1\master\3722c60a815c199d9c0ef36c5b73da68a62b09d1\cc-of5cbk3sav3w5\v1\sysdata_s_p_a_fifa_7\samsungheadend_us\latest\main\hls\playlist.m3u8
+
+#EXTINF:-1 tvg-id="cubmu.com" tvg-logo="https://i.imgur.com/l0JyOrm.png",CNN Indonesia
+https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="cubmu.com" tvg-logo="https://i.imgur.com/YC7JCHo.png",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+
+#EXTINF:-1 tvg-id="cubmu.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/960px-MDTV_logo.svg.png",MDTV
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
+
+#EXTINF:-1 tvg-id="cubmu.com" tvg-logo="https://i.imgur.com/QnU70NI.png",Metro TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dens.tv" tvg-logo="https://i.imgur.com/viun5hj.png",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
